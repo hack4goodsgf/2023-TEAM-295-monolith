@@ -22,5 +22,17 @@
   +  Invitation based to limit app access
   +  Built in authentication to protect sensitive data
  
+ # Screenshots 
+ 
+## Admin App
+ ![Admin App](https://github.com/nc0962699/Hack4Good-2023-TEAM-295/blob/main/Screenshots/Admin%20App.png)
+
+ ## Companion App
+ ![Companion App](https://github.com/nc0962699/Hack4Good-2023-TEAM-295/blob/main/Screenshots/Companion%20App.png)
+
+ ## Intake App
+ ![Intake App](https://github.com/nc0962699/Hack4Good-2023-TEAM-295/blob/main/Screenshots/Intake%20App.png)
+ 
+ 
   #### Disclaimer: This project was completed as a volentarily effort and is not licensed by Good Dads.
   #### This project does not reflect Good Dads or any of its associations
